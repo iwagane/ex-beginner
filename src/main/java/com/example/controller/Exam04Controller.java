@@ -12,7 +12,7 @@ import com.example.form.UserForm;
 
 @Controller
 @RequestMapping("/ex04")
-public class Exam04Contrpller {
+public class Exam04Controller {
 
 	@ModelAttribute
 	public UserForm setUpForm() {
